@@ -1,0 +1,2 @@
+gui inited
+gui:on_destroy
